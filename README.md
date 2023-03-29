@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ChrisGoldswain
 - 👀 I’m interested in iOS
-- 🌱 I’m currently learning Swift
+- 🌱 I’m currently programming in Swift
 - 💞️ I’m looking to collaborate on Swift projects
 - 📫 How to reach me ...
 
